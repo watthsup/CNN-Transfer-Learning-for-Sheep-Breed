@@ -20,3 +20,11 @@ The notebook can be accessed and run using Google Colab. Alternatively, if you p
 
 1. PyTorch: a powerful open-source machine learning library used for building deep neural networks.
 2. Albumentations: a fast and flexible image augmentation library that can help you create better machine learning models.
+
+## Conclusion & Preview
+
+By utilizing transfer learning concept, high performance can be achieved without the needs of large dataset. Moreover, the performance can be further improved by fine-tuning the model. The evaluated performance can be stated with confusion matrix below : 
+![image](https://user-images.githubusercontent.com/121663706/227727897-006d1cbe-4d7a-4fe8-b25c-8c3a3db68de9.png)
+
+Here is a sample prediction of Poll Dorset sheep. It can be cleary seen that our CNN is able to predict the image of Pool Dorset sheep with high confidence value.
+![image](https://user-images.githubusercontent.com/121663706/227727734-07117acc-49a6-4c0f-9555-f026efc118ad.png)
